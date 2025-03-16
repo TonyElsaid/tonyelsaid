@@ -35,10 +35,10 @@
 
 ## 🏆 Signature Projects
 
-### AI-Powered Website Generator ([Demo](https://your-demo-link.com))
+### AI-Powered Website Generator  
 `GAN` `React` `AWS` `Python`  
 Automated website creation through natural language prompts  
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-repo)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)] 
 
 ### Cyber Range Platform ([Case Study](https://your-blog-post))
 `Kali Linux` `Docker` `OWASP Top 10`  
@@ -56,9 +56,7 @@ Interactive cybersecurity training environment
 ## 🎓 Education & Credentials
 **BSc Cyber Security**  
 *Ain Shams University* | Cairo, Egypt (2021)  
-**Certifications**:  
-- AWS Certified Solutions Architect (In Progress)  
-- Certified Ethical Hacker (CEH v12)  
+ 
 
 **Languages**:  
 🇪🇬 Arabic (Native) | 🇬🇧 English (Professional Proficiency)
