@@ -1,64 +1,93 @@
-# 👋 Hi, I'm Tony Elsaid 
-**Senior Software Engineer | AI & Cybersecurity Specialist**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-elsaid-81984316a/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tonyelsaid.te@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/2001555323454)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;AI+%26+Cybersecurity+Specialist;Full-Stack+Developer;Open-Source+Contributor" alt="Animated Header" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tony-elsaid-81984316a/">
+    <img src="https://img.shields.io/badge/-LinkedIn-2AA889?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tonyelsaid.te@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-2AA889?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/2001555323454">
+    <img src="https://img.shields.io/badge/-WhatsApp-2AA889?style=for-the-badge&logo=WhatsApp&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🔧 Technical Arsenal
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+### 🛠️ Tech Stack
+
+#### **Core Technologies**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+#### **Web Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
-## 🚀 Professional Journey
+### 🚀 Featured Projects
 
-### 💼 Senior Software Engineer @ Clear Nexus USA (Remote)
-**Oct 2023 - Present**  
-✅ Led development of financial transaction API ecosystem  
-✅ Implemented PCI-DSS security architecture  
-✅ Optimized system latency by 40% through concurrency improvements  
-
-### 🌐 AI Innovation Lead @ Global Results (Cairo)
-**Jan 2022 - Oct 2023**  
-🚀 Built AI website generator using GANs (Text-to-Image)  
-☁️ Designed AWS cloud infrastructure handling 10K+ RPM  
-👨💻 Trained 15+ engineers on AI/ML integration  
-
----
-
-## 🏆 Signature Projects
-
-### AI-Powered Website Generator  
-`GAN` `React` `AWS` `Python`  
-Automated website creation through natural language prompts  
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)] 
-
-### Cyber Range Platform ([Case Study](https://your-blog-post))
-`Kali Linux` `Docker` `OWASP Top 10`  
-Interactive cybersecurity training environment  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.123456.svg)](https://doi.org/10.5281/zenodo.123456)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI Website Generator</h3>
+      <img src="https://raw.githubusercontent.com/tonyelsaid/tonyelsaid/main/assets/ai-generator-demo.gif" width="100%">
+      <p>GAN-powered platform for automated website creation</p>
+      <a href="https://github.com/your-repo">
+        <img src="https://img.shields.io/badge/Source_Code-2AA889?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🔒 Cyber Range Platform</h3>
+      <img src="https://raw.githubusercontent.com/tonyelsaid/tonyelsaid/main/assets/cyber-range-demo.gif" width="100%">
+      <p>Interactive cybersecurity training environment</p>
+      <a href="https://your-demo-link.com">
+        <img src="https://img.shields.io/badge/Live_Demo-2AA889?style=for-the-badge&logo=vercel&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
-[![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonyelsaid&show_icons=true&theme=dark&hide_title=true)](https://github.com/tonyelsaid)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyelsaid&layout=compact&theme=dark)](https://github.com/tonyelsaid)
+### 📈 Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tonyelsaid&show_icons=true&theme=merko&hide_border=true" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonyelsaid&theme=merko&hide_border=true" width="45%">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tonyelsaid&theme=onedark&no-frame=true&row=2&column=4" width="100%">
+</div>
+
+![Contribution Snake](https://raw.githubusercontent.com/tonyelsaid/tonyelsaid/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 🎓 Education & Credentials
-**BSc Cyber Security**  
-*Ain Shams University* | Cairo, Egypt (2021)  
- 
+### 🎓 Education & Certifications
 
-**Languages**:  
-🇪🇬 Arabic (Native) | 🇬🇧 English (Professional Proficiency)
+- **BSc Cyber Security** - Ain Shams University (2021)
+- **AWS Certified Solutions Architect** (In Progress)
+- **Certified Ethical Hacker (CEH v12)**
+- **OWASP Top 10 Practitioner**
 
-[![Visitors](https://komarev.com/ghpvc/?username=tonyelsaid&color=2196F3&label=Profile+Views)](https://github.com/tonyelsaid)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tonyelsaid/tonyelsaid/main/assets/tech-divider.svg" width="100%">
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tonyelsaid&color=2AA889&style=flat-square" alt="Profile Views">
+</p>
